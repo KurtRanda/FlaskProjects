@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 autopep8
 blinker
 Click
@@ -11,3 +12,10 @@ Werkzeug
 flask-sqlalchemy
 flask-wtf
 psycopg2-binary
+=======
+flask
+flask-sqlalchemy
+ipython
+psycopg2-binary
+sqlalchemy
+>>>>>>> ebd226f (Cupcakes)
